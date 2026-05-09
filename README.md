@@ -1,1 +1,1 @@
-# Photonic-Band-Gap
+# photonic_crystal
